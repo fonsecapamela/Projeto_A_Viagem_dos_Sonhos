@@ -1,0 +1,33 @@
+@charset UTF-8;
+
+
+header p{
+    font-weight: 600;
+    color: white;
+}
+
+header h1{
+    color: white;
+}
+
+h1{
+    font-size: 63px;
+    color: white;
+    text-align: center;
+    
+}
+
+
+h2{
+    font-size: 24px;
+    text-transform: uppercase;
+    color: #313030;
+    font-weight: 600;
+}
+
+.carousel-caption h5{
+    font-size: 80px;
+    color: #ffc107;
+    text-shadow: 2px 2px 2px black;
+}
+
